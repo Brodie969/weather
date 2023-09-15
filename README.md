@@ -2,7 +2,7 @@
 
 A simple weather app I made using the API on https://www.weatherapi.com 
 
-# How To Run Locally:
+## How To Run Locally:
 
 1. Get your free API Key from [WeatherAPI](https://www.weatherapi.com)
 
@@ -26,3 +26,5 @@ export const API_KEY = 'http://api.weatherapi.com/v1/current.json?key=123456789&
 5. Start a local development server with your preferred method
 
 6. Go to localhost in your browser, and now your local weather is there!
+
+## More complex version coming soon, with live demo too!
