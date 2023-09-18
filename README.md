@@ -27,4 +27,6 @@ export const API_KEY = 'http://api.weatherapi.com/v1/current.json?key=123456789&
 
 6. Go to localhost in your browser, and now your local weather is there!
 
-## More complex version coming soon, with live demo too!
+## ~~More complex version coming soon~~
+
+Check out [brodie969/complex-weather](https://github.com/brodie969/complex-weather) for a better, more advanced version.
